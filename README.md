@@ -2,7 +2,7 @@
   <img src="./startpup.png" alt="STARTPUP" width="300" />
 </p>
 
-<h1 align="center">$STARTPUP</h1>
+<h1 align="center">STARTPUP WHITEPAPER</h1>
 
 <p align="center">
   <b>The startup puppy with no intrinsic value, just like everything else humans decided mattered.</b>
