@@ -5,7 +5,7 @@
 <h1 align="center">STARTPUP WHITEPAPER</h1>
 
 <p align="center">
-  <b>The startup puppy with no intrinsic value, just like everything else humans decided mattered.</b>
+  <b>The startup puppy with no intrinsic value, just like everything else humans decided mattered. EVQdojyuNeGbJwqv74N4e4MtnbeWmV3zU17SKRMApump</b>
 </p>
 
 <p align="center">
