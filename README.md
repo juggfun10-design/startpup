@@ -270,18 +270,6 @@ The difference is that STARTPUP is honest about it.
 
 ---
 
-## Summary
-
-- **Token:** STARTPUP
-- **Max Supply:** 1,000,000,000
-- **Supply Model:** Deflationary
-- **Mechanism:** Pump.fun agent buybacks and burns
-- **Core Thesis:** Value is created by human belief, trust, scarcity, and social coordination
-- **Intrinsic Value:** None
-- **Potential Value:** Whatever humans decide it is
-
----
-
 ## Final Thought
 
 The world runs on shared stories.
